@@ -1,39 +1,15 @@
-<h1 align="center">👋 Hello! I'm BaggerFast </h1>
-
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
-## About me
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://tlgg.ru/BaggerFast)
-[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/baggerfast)
-
-I'm a backend developer from Russia, working at [@Elixor](https://github.com/ElixorTeam).
-
-I'm interested in web development and games. Also, I hate JavaScript💀
-
-## 🙏 Visit my website
-[BaggerFast's docs](https://baggerfast.github.io/BaggerFast) - Here I post helpful IT manuals. They can be used as references
-
-<details align="left">
-  <summary><h2><b>📚 My stack</b></h2></summary>
-  <p>
-    <h3>Langs</h3>
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,cpp,py,java,html,css,postgres,sqlite&perline=7" />
-    <h3>Frameworks / Tools</h3>
-    <img src="https://skillicons.dev/icons?i=unity,gradle,spring,linux,hibernate,githubactions,django,docker,git,bootstrap&perline=7" />
-    <h3>Software</h3>
-    <img src="https://skillicons.dev/icons?i=visualstudio,idea,neovim,postman,ultimate&perline=7" />
-    <br>
-  </p>
-</details>
+# 💫 About Me:
+🗺️Live in Russia<br>🌍Languages: Russian, English<br>🙂Gender: Male
 
 
-<details align="left">
-  <summary><h2><b>⭐GitHub stats</b></h2></summary>
-  <p>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaggerFast&theme=dracula&layout=compact&hide_border=true&bg_color=00000000" />
-   <br>
-   <img src="https://github-readme-stats.vercel.app/api?username=BaggerFast&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
-  </p>
-</details>
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=OrbitForgeDev&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=OrbitForgeDev&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OrbitForgeDev&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=OrbitForgeDev&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
